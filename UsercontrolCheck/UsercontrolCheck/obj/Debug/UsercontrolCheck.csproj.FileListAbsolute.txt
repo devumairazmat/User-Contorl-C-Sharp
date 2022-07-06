@@ -1,0 +1,14 @@
+F:\user control practical\UsercontrolCheck\UsercontrolCheck\bin\Debug\UsercontrolCheck.exe.config
+F:\user control practical\UsercontrolCheck\UsercontrolCheck\bin\Debug\UsercontrolCheck.exe
+F:\user control practical\UsercontrolCheck\UsercontrolCheck\bin\Debug\UsercontrolCheck.pdb
+F:\user control practical\UsercontrolCheck\UsercontrolCheck\bin\Debug\WindowsFormsControlLibrary1.dll
+F:\user control practical\UsercontrolCheck\UsercontrolCheck\bin\Debug\WindowsFormsControlLibrary1.pdb
+F:\user control practical\UsercontrolCheck\UsercontrolCheck\obj\Debug\UsercontrolCheck.csproj.AssemblyReference.cache
+F:\user control practical\UsercontrolCheck\UsercontrolCheck\obj\Debug\UsercontrolCheck.csproj.SuggestedBindingRedirects.cache
+F:\user control practical\UsercontrolCheck\UsercontrolCheck\obj\Debug\UsercontrolCheck.Form1.resources
+F:\user control practical\UsercontrolCheck\UsercontrolCheck\obj\Debug\UsercontrolCheck.Properties.Resources.resources
+F:\user control practical\UsercontrolCheck\UsercontrolCheck\obj\Debug\UsercontrolCheck.csproj.GenerateResource.cache
+F:\user control practical\UsercontrolCheck\UsercontrolCheck\obj\Debug\UsercontrolCheck.csproj.CoreCompileInputs.cache
+F:\user control practical\UsercontrolCheck\UsercontrolCheck\obj\Debug\UsercontrolCheck.csproj.CopyComplete
+F:\user control practical\UsercontrolCheck\UsercontrolCheck\obj\Debug\UsercontrolCheck.exe
+F:\user control practical\UsercontrolCheck\UsercontrolCheck\obj\Debug\UsercontrolCheck.pdb
